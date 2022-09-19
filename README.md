@@ -8,3 +8,5 @@
 # Creating a new branch is quick and simple.
 
 # Add feature 2 for testing.
+
+# Add feature 3 for testing.

@@ -6,3 +6,5 @@
 # add the 6th line for my codes.
 
 # Creating a new branch is quick and simple.
+
+# add feature2 for new test.

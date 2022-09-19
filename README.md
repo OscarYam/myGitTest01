@@ -7,3 +7,5 @@
 # Creating a new branch is quick and simple.
 # Add feature 2 for testing.
 # Fix bug 101.
+
+# Add feature 3 for testing.

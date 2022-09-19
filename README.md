@@ -7,4 +7,4 @@
 
 # Creating a new branch is quick and simple.
 
-# Add feature_2 for testing.
+# Add feature 2 for testing.

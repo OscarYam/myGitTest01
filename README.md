@@ -22,3 +22,4 @@
 # fix bug 103.
 
 # version 0.3 released
+# version 0.4 released

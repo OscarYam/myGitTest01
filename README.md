@@ -20,3 +20,5 @@
 # This is code by OY on github online.
 
 # fix bug 103.
+
+# version 0.3 released
